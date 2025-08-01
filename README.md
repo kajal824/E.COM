@@ -1,4 +1,4 @@
-# [Your Project Name] - E-commerce Platform 🛒
+# E-commerce Platform 🛒
 
 ![Project Banner/Screenshot](link-to-your-banner-image.png)
 
