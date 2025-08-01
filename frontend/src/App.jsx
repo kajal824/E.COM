@@ -1,13 +1,13 @@
-
-        // src/App.jsx
-import { Box, Button, Heading } from '@chakra-ui/react'
+import { useState } from 'react'
+import HomePage from './Pages/Home/HomePage'
 
 function App() {
+  
+
   return (
-    <Box p={4}>
-      <Heading mb={4}>Hello Chakra UI</Heading>
-      <Button colorScheme="teal">Click me</Button>
-    </Box>
+    <>
+      <HomePage/>
+    </>
   )
 }
 

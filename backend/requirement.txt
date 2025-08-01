@@ -1,0 +1,6 @@
+dotenv
+express
+mongoose
+nodemon
+cors
+cookie-parser
