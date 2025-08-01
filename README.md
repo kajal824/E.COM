@@ -7,12 +7,9 @@ A full-featured e-commerce platform built with the MERN stack (MongoDB, Express.
 ## ✨ Features
 
 ### User Features
-- **User Authentication**: Secure user registration and login using JSON Web Tokens (JWT).
 - **Product Browse**: View all products with pagination.
-- **Search & Filter**: Search for products by name and filter by category, price range, and ratings.
 - **Product Details**: View detailed information for each product, including descriptions, images, and customer reviews.
 - **Shopping Cart**: Add, remove, and update the quantity of products in the cart.
-- **Checkout Process**: A multi-step checkout process including shipping address and payment integration.
 - **User Profile**: Users can view and update their profile information.
 - **Product Reviews**: Authenticated users can leave reviews and ratings on products.
 
